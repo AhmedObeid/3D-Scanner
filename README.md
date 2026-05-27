@@ -77,8 +77,11 @@ Ensure the following libraries are installed via the Arduino Library Manager bef
 ## Project Credits & Acknowledgments
 
 **Coded by:** Eng. Ahmed M. Ubayed  
+
 **Electrical Integration:** Ahmed Atef (NUUB)  
-**Mechanical Design:** Abdell-Rahman Mohamed
+
+**Mechanical Design:** Abdell-Rahman Mohamed (VBDO)
+
 **Project Supervisors:** Eng. Ahmed Mosaad & Eng. Marwa Bassim  
 
 *Developed with love, passion, and excessive amounts of coffee for the U34 Research Project.*
